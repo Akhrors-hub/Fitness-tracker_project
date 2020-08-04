@@ -18,7 +18,7 @@ Keep track of all your cardio and weightlifting!
 - [MongoDB](https://mongodb.com)
 
 ```bash
-git clone https://github.com/skuttenkuler/Fitness-Tracker.git
+git clone
 
 cd Fitness\ Tracker/
 
